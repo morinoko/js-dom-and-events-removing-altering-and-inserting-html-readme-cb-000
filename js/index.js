@@ -16,7 +16,6 @@ element.style.textAlign = 'center';
 
 // Append elements to the new element
 let ul = document.createElement('ul');
-
 element.appendChild(ul);
 
 for (let i = 0; i < 3; i++) {
