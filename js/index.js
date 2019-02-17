@@ -31,4 +31,3 @@ ul.style.textAlign = 'left';
 // Remove Elements
 // Remove second li from ul
 ul.removeChild(ul.querySelector('li.nth-child(2)'));
-
